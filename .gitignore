@@ -1,0 +1,22 @@
+# Node.js dependencies
+/node_modules
+
+# React build folder
+/frontend/build
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
